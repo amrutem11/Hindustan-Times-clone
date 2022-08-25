@@ -93,6 +93,7 @@ ul{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     list-style-position: outside;
     line-height: 40px;
+    cursor: pointer;
 }
 
 #last{
