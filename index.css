@@ -57,15 +57,14 @@ img{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: whitesmoke;
 }
-
-#navbar>h2{
-    text-align: center;
-    font-size: 50px;
-    color:crimson
+#navbar > div  :hover{
+    color: #00b1cd;
+    text-decoration: underline;
 }
+
 #body{
     width: 90%;
-    border: 0px solid greenyellow;
+    border: 1px solid greenyellow;
     height: 3300px;
     margin: auto;
     margin-top: 20px;
@@ -178,7 +177,7 @@ h5{
     font-weight: 600;
 }
 .child{
-    border: 0px solid red;
+    border: 1px solid red;
     height: 850px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
     margin-top: 20px;
